@@ -1,4 +1,21 @@
-/* .moviePic{
-	height : 100px;
-	width : 50px;
-} */
+.moviePic{
+	height : 300px;
+	width : 300px;
+	opacity:0.8;
+}
+.movieDetail{
+	position:absolute;
+	top:50%
+	width:100%;
+	text-align:center;
+	font-size:18px;
+}
+/* body{
+	margin : 0;
+	padding : 0;
+	height = 100hv;
+	display : flex;
+	justify-content : center;
+	align-item : center;
+	background-color:#f0f0f0l */
+/* } */
